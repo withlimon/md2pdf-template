@@ -1,7 +1,7 @@
 # Modern Physics Open Source Note
 > Contribute to complete the note.You will given proper credit.
 ## Download Note
-[Visit](https://github.com) to download a PDF of the note or [Read Online)[https://github.com/withlimon/Modern-Physics-Note]
+[Visit](https://github.com) to download a PDF of the note or (Read Online)[https://github.com/withlimon/Modern-Physics-Note]
 ## Contributers
 <a href = "https://github.com/withlimon/Modern-Physics-Note">
   <img src = "https://contrib.rocks/image?repo=withlimon/Modern-Physics-Note"/>
