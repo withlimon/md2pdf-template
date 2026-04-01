@@ -1,7 +1,7 @@
 # Modern Physics Open Source Note
 > Contribute to complete the note.You will given proper credit.
-## Download Note
-[Visit](https://github.com) to download a PDF of the note or [Read Online](https://github.com/withlimon/Modern-Physics-Note/blob/main/modern_physics_notes.md)
+## Download or Read Note
+[Visit Release to Download a PDF](https://github.com) or [Read Online](https://github.com/withlimon/Modern-Physics-Note/blob/main/modern_physics_notes.md)
 ##### Workflow Status: ![build.yml status](https://github.com/withlimon/Modern-Physics-Note/actions/workflows/build.yml/badge.svg)
 ## Contributers
 <a href = "https://github.com/withlimon/Modern-Physics-Note">
