@@ -433,8 +433,8 @@ if $m_0 = 0$
 
 $$\boxed{E = pc} \rightarrow \text{Rest mass zero হলে Particle exist করতে পারে না বরং Energy থাকতে পারে যদি velocity c হয়।}$$
 
-⊞ CT-1 এর পর্যন্ত Syllabus
-&emsp;&emsp; 2টির পর প্রথম Thursday
+⊞ CT-1 এর Syllabus এই পর্যন্ত
+
 
 ---
 
