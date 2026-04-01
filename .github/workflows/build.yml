@@ -1,4 +1,6 @@
 name: Build And Release
+# last update,i tried 7 to 11 30 for4 hr 30 min.So
+# Not agin in my life i will use ai or printed note
 
 on:
   push:
@@ -16,14 +18,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Instal typst
-        run: sudo snap install typst
-      - name: install md typ pdf
-        run: cargo install md-typ-pdf
-
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install markdown-convert
+        run: pip install markdown-convert
 
       - name: Convert to PDF
-        run: md-typ-pdf ./modern_physics_notes.md ./modern_physics_notes.pdf
+        run: markdown-convert ./modern_physics_notes.md --out=./modern_physics_notes.pdf
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
