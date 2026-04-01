@@ -18,6 +18,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Instal typst
         run: sudo snap install typst
+      - name: install md typ pdf
+        run: cargo install md-typ-pdf
 
 
       - name: Convert to PDF
