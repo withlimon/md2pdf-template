@@ -2,6 +2,7 @@
 > Contribute to complete the note.You will given proper credit.
 ## Download Note
 [Visit](https://github.com) to download a PDF of the note or [Read Online](https://github.com/withlimon/Modern-Physics-Note/blob/main/modern_physics_notes.md)
+##### Workflow Status: ![build.yml status](https://github.com/withlimon/Modern-Physics-Note/actions/workflows/build.yml/badge.svg)
 ## Contributers
 <a href = "https://github.com/withlimon/Modern-Physics-Note">
   <img src = "https://contrib.rocks/image?repo=withlimon/Modern-Physics-Note"/>
