@@ -31,7 +31,7 @@ $\underline{CT\text{-}2}$
 
 ---
 
-**⊞ All motions are relative**
+**All motions are relative**
 
 ---
 
@@ -124,7 +124,7 @@ $$x = \frac{x' + vt'}{\sqrt{1 - \dfrac{v^2}{c^2}}} \qquad y = y' \qquad z = z'$$
 
 $$t = \frac{t' + \dfrac{vx}{c^2}}{\sqrt{1 - \dfrac{v^2}{c^2}}}$$
 
-### ⊞ Conclusion:
+###  Conclusion:
 
 $$\boxed{x' = \frac{x - vt}{\sqrt{1 - \dfrac{v^2}{c^2}}}} \qquad \boxed{x = \frac{x' + vt'}{\sqrt{1 - \dfrac{v^2}{c^2}}}}$$
 
